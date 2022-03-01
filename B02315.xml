@@ -1,0 +1,275 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A conference between the ghost of the Rump and Tom Tel-Troth. Together with her sad complaint of that dismall and total eclipse that is like to fall out on the 20th day of April, 1660.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02315</idno>
+            <idno type="STC">Wing C5725E</idno>
+            <idno type="STC">ESTC R174224</idno>
+            <idno type="EEBO-CITATION">53299007</idno>
+            <idno type="OCLC">ocm 53299007</idno>
+            <idno type="VID">179784</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02315)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179784)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2802:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A conference between the ghost of the Rump and Tom Tel-Troth. Together with her sad complaint of that dismall and total eclipse that is like to fall out on the 20th day of April, 1660.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Mris Nurse the Rumps late matron, and are to be sold at Kings-land-Court ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Imperfect: print show-through with loss of text.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Political satire, English --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Humor --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:179784:1" rendition="simple:additions"/>
+            <p>A CONFERENCE BETWEEN THE GHOST OF THE RUMP AND <hi>TOM TEL-TROTH.</hi> Together with her ſad Complaint of that diſmall and totall Eclipſe that is like to fall out on the 20th day of <hi>April,</hi> 1660.</p>
+            <sp>
+               <speaker>GHOST</speaker>
+               <lg>
+                  <l>Now like a gaſhly ſpright I do appear,</l>
+                  <l>Who once in Pomp, this Common-wealth did Steere</l>
+                  <l>Which way I pleas'd, But now at laſt I wot,</l>
+                  <l>No Voice is for me, or my daughter <hi>Scot</hi>
+                  </l>
+                  <l>To ſit. Our falls decree'd, we muſt retire</l>
+                  <l>From hence to flames of ever burning fire.</l>
+               </lg>
+            </sp>
+            <p>
+               <hi>Printed for Mris</hi> Nurſe <hi>the</hi> Rumps <hi>late Matron, and are to be ſold at</hi> Kings-land-Court <hi>near the</hi> Biſhoprick <hi>of</hi> Durham.</p>
+            <pb facs="tcp:179784:2"/>
+            <pb facs="tcp:179784:2" rendition="simple:additions"/>
+            <pb facs="tcp:179784:3"/>
+            <pb facs="tcp:179784:3"/>
+            <pb facs="tcp:179784:4" rendition="simple:additions"/>
+            <pb facs="tcp:179784:4" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:179784:5"/>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb n="1" facs="tcp:179784:5" rendition="simple:additions"/>
+            <head>A CONFERENCE BETWEEN THE Ghoſt of M<hi rend="sup">ris</hi>. RVMP, and her Adverſary <hi>Tom Tell-troth.</hi>
+            </head>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>WHat art thou that darſt preſume to ap<g ref="char:EOLhyphen"/>pear on this ſacred ground? whence come you thus booted and ſpur'd, I ſhould known you, as being formerly acquainted with you, but 'tis ſo long that I have quite forgot thy name, pray let me crave it.</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>In the name of blackneſs what art thou that thus diſturb'ſt the Peace of an boneſt paſſenger, by thy gaſhly countenance and ſhrill voice? Surely I am in <hi>England!</hi> or elſe I'me much miſtaken, but this thy uſage makes me doubt, for that I have ſo long been ba<g ref="char:EOLhyphen"/>niſhed from my Native Country; Pray take compaſſion on a wan<g ref="char:EOLhyphen"/>dring ſtranger, and lead him not aſtray, he was ſent to <hi>England,</hi> &amp; if it be ſo that you prove a happy guide, his name ſhall ſoon be diſ<g ref="char:EOLhyphen"/>covered to you.</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>Tis <hi>England, England!</hi> which I and my confederates have uſurped the Government of, and ſhould have none ſtill, had not the <hi>Syren</hi> voice of a curſed <hi>Judas</hi> betray'd me. But pray let me know your name?</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>Why then to put you out of doubt, my name is <hi>Tom Tel-troth,</hi> that have been baniſhed for conſcience ſake out of my Na<g ref="char:EOLhyphen"/>tive Country above eleaven years.</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>Oh <hi>Tom,</hi> it ſeems then you have a time wherein you may
+<pb n="2" facs="tcp:179784:6"/>ſhew your face which thus long we have compelled you to hide.</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>You compelled me to hide my face, why pray, what are you that have compelled me ſo much?</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>Why have you then forgotten your Soveraign Rump that caſt you into your long Exzile.</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>I know well enough there was the Fagg end of a Parlia<g ref="char:EOLhyphen"/>ment ſet at the Stearn at <hi>Weſtminſter</hi> when I was forc'd to flie, but little thought I they had removed their Senate houſe from thence to this place. But pray tell me are you that Power (Rump as you call your ſelf) if ſo ile aſſure you ſomething is in the wind: have you of late been humbled for your ſins, or whats the matter you have choſen ſuch a lowly houſe to ſit in ſuch Malencholly weeds to adorn you withall.</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>Full ſore againſt our wills are we confined to this ſtati<g ref="char:EOLhyphen"/>on, we nouriſhed a bird to pluck out our own eyes, who under pretence of remvoing a late obſtruction coucht upon us, hath totally extirpated us from our habitation, vile Traytor and diſloyal Subject as he is, we come to thee for judgement, and if as truth thou art thou wilt but Cohere to us and be ſo prevalent with the Engliſh People, as if thou pleaſeſt we know thou canſt, we will not tell thee how well we will reward thee.</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>And are you met withall at laſt: and have you no place to ſettle your Rump upon? ho! ho! it makes my worſhip ſmile, I did think as much that your Ambitious wings at laſt either would be clipt, melted, ſinged, or ſubjected to ſome other diſaſterous chance, and are you caught in one of your own traps, a Jeſt worthy to be filed upon the Records of <hi>Will</hi> Summers.</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>Nay prithy <hi>Tom</hi> (for now I can think of your name, for my own ends) do not flout ſo: you may endanger my health: for I am late eſcaped from the perils of a hard and terrible team<g ref="char:EOLhyphen"/>ing if ever pitty moved you, have compaſſion on a poor diſtreſſed weak deſpiſed friendleſs Rump.</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>Why what would you have me do for you?</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>Onely help me up the ſtairs in <hi>Weſtminſter Hall</hi> that lead you know whether, for I am ſo weak I am not able to ſtand, much leſſe to go alone, and notwithſtanding my weakneſs for <hi>neceſ<g ref="char:EOLhyphen"/>ſitas non legem habit</hi> if I take not poſſeſſion again before the 20.
+<pb n="3" facs="tcp:179784:6"/>of <hi>April</hi> next, I looſe my right by the Lawes of the Nation and am undone for ever; therefore good <hi>Tom</hi> pitty the caſe of a poor ſick and weak Rump.</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>Alas I cannot contribute any thing to your relief, for if I ſhould put forth any thing to vindicate your innocency and harm<g ref="char:EOLhyphen"/>leſneſs, and witneſs againſt the illegallity of your exturpation, the people would ſtone me for a falſe and lying prophet, and not re<g ref="char:EOLhyphen"/>ceive it as the Oracle of Tom-teltroth.</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>Well hazard that, we know the ſimple meaning of the people ſo well, that if you will but regeſter us in your table book we ſhall imediatelv be inveſted with the Robes of Saints again, by the honeſt ſimple people of <hi>England.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>Well Admit I ſhould play the Doctor for once and make your feeble Rump ſit again, what can you ſay for your ſelves for demeaning your ſelves in your office if you chance to neſtle there<g ref="char:EOLhyphen"/>again?</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>Oh we will become the mildeſt of Rulers, and the mer<g ref="char:EOLhyphen"/>cifulleſt of Governours, wee'l eaſe the Nation of all the heavy bur<g ref="char:EOLhyphen"/>thens we have brought upon her, which none can remove ſo well as we have laid them on, wee'l vaniſh oppreſſion and covetouſneſs far from our Land, and utterly blot them out of our remembrance and will make glad the heart of all men from the Plowmen to the Merchant, and make her a Land that ſhall flow with milk, and trading ſhall flow in ſo great an abundauce that men ſhall not be able to find places to hoard up their treaſure, all theſe and what elſe may be deſired will we perform. Honeſt Tom play thou the man and we care not.</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>Nay but hold a little, two words goes to a bargain, I do not intend to buy a pigg in a poak neither: you have made a very fair ſpeech and when I have conſtrued it I can ſay ſomething to you, you ſay you will become the crueleſt of Rulers and the un<g ref="char:EOLhyphen"/>mercifulleſt of Governours or Tyrants, you will eaſe the Nation of all the heavie Burthens that is of all the money, plate, gold, Jewels and whatſoever riches ſhe has ſaved from your ravenous and inſatiate pawes, becauſe none can remove them ſo well as you, that you mean by your new found wayes of Sequeſtration, Taxes, impoſition, Exciſe, unreaſonable Cuſtomes, Monopolies and o<g ref="char:EOLhyphen"/>ther new found fangles of your own braines, you will eſtabliſh
+<pb n="4" facs="tcp:179784:7"/>oppreſſion and covetouſneſs in a far greater light in the Land then ever, and moſt vigorouſly revive them in the Book of your re<g ref="char:EOLhyphen"/>membrance, will you make glad the hearts of all men from the Plowman to the Merchant, <hi>viz.</hi> ſuch as are joynts of the Rump but none elſe, but will make ſorrow prove the ſops of both the Church and States man, and give your phanatick puritie ſuch a large liberty of conſcience that without diſpute then the Churches indeed ſhall ſuffer Martyrdom, and the Bells ſhall ſerve for Coyn to cheat the people whilſt you follow the rule of <hi>Haſlerigg</hi> and <hi>Preduaux</hi> in hoarding up the good mettal-baggs, the States man let you alone to plague and puniſh for he ſhall live by the ſuſtenance of Gall and bitterneſs which ſhall be all the milk and hony ſhall flow in the Land, from your ſtore houſes by trad<g ref="char:EOLhyphen"/>ing, Is meant the Lobſtertorean trading with the people upon free quarter whereby their gains will be ſo great that they may put the ſame in their eyes and ſee never the worſe, and thereby they will be (I muſt confeſſe) much puzled to find out ſuch ſmall places of hoarding up as their gained treaſure will require, and at laſt you conclude very notably all this, and what elſe may be deſired you will perform, tis not at all by me doubted but that you will per<g ref="char:EOLhyphen"/>form the contempt now, how do you think if I ſhould take the pains to Regiſter you and ſet you forth in your colours the people will be either ſo mad and fooliſh to truſt or believe you, therefore reſt your ſelves contented for believe and you have had a fair time of it 10. or 11. years my maſters what have ye no reaſon at all: there's reaſon in roſting of Eggs, pray let me go for I fear if you detain me any longer upon this helpleſs and vain account I ſhall at laſt learn the Language of the Beaſt, you ſee 'tis dark and I 'm a ſtranger in this Land, ſo that I ſcarce know my own father when I met him, he has ſo altered his tongue ſince I have ſaw him laſt and to tell you the truth, I have never a peny in my purſe to buy a light, and I fear you will hardly afford me one out of your boun<g ref="char:EOLhyphen"/>teous negerallitie therefore it is but reaſon you grant me a con<g ref="char:EOLhyphen"/>ductor and none ſo fit as <hi>Atkins</hi> that I may ſmell my way like a blood-Hound what ſay ye Gentlewomen can you grant my re<g ref="char:EOLhyphen"/>queſt.</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>I grant it onely let me ſprinkle you with a little holy water, which it may be may purge you from your filthineſs, and
+<pb n="5" facs="tcp:179784:7"/>open your eyes to have a right reflextion on me, for your laſt ex<g ref="char:EOLhyphen"/>poſition has only grounded a conceit in me, that the change of the Climate has formed you and intollerable Lunatick, nurſe <hi>Haſlerigg</hi> bring me hither a Bottle of ſweet water of Mrs. <hi>Scots</hi> own diſtil<g ref="char:EOLhyphen"/>ling that I may make this churle an aderifferous Gentleman: Quick, you ſee 'tis late.</p>
+            </sp>
+            <sp>
+               <speaker>Nurſe.</speaker>
+               <p>Here's the Bottle pray ſprinkle him to the purpoſe or not at all.</p>
+            </sp>
+            <sp>
+               <speaker>Ghoſt.</speaker>
+               <p>Nay <hi>Tom:</hi> What wo't not have a dram you know not the excellencie thereof.</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>Pray tell not me of your poiſoning ſtuffe de' think I 'm mad to be charmed: if you will grant my requeſt if not ile groble out my way ith' dark following the ſent of this thick Vapour.</p>
+            </sp>
+            <p>Ye cold <hi>A—ſt</hi> Rump that ſat ſo long for nought had you your Egg to perfection brought you had not thus forlorne been left god wot to the mercy of the rope and ſlaughtring knott and farwel for I came but to tell you a few true Jeſts of your own Coyning.</p>
+            <p>
+               <hi>One of the Ghoſts Emiſſaries.</hi> Oh what a wonderfull thing is this that men ſhould know all our actions, and dive ſo into the ſecret of hearts to tell what I did in my life; Could better Lip<g ref="char:EOLhyphen"/>ſolve been uſed then I applyed for the ſalving up the ſore of the Common-wealths deſtruction, and yet in his conſtruction he ſhould hint ſo netlingly and truely at every particular point of our in<g ref="char:EOLhyphen"/>tentions, ſo well vail'd by me, but I cry ye mercy his name is Tell-truth, I did not think he had his name for nothing, for had he been a thouſand time in thee Mrs. <hi>Rump,</hi> he could not have ſpo<g ref="char:EOLhyphen"/>ken more prophetickly then he has, well: I ſee there's no hopes of recovery ile return to my infernal habitation, for its in vain to proſecute the Deſign any further for a hundred to one, but he has blazed the truth of all before now, and has given all men time to provide for encountring us.</p>
+            <sp>
+               <speaker>GHOST.</speaker>
+               <lg>
+                  <l>Before ile go to my infernal place</l>
+                  <l>Of torment, ile adventure here a ſpace,</l>
+                  <l>And like the Phenix will at laſt expire</l>
+                  <l>And build a neſt ſhall make the world admire,</l>
+                  <pb n="6" facs="tcp:179784:8"/>
+                  <l>Of pure refined gliſtering yellow Gol<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</l>
+                  <l>And choyceſt Gems which now my Coffers hold,</l>
+                  <l>And there ile flutter with <hi>Icarius</hi> wings,</l>
+                  <l>Upon my Neſt till all thoſe glittering things,</l>
+                  <l>By bright <hi>Sols</hi> Beams ſhall ſwiftly opperate,</l>
+                  <l>My Rumpiſh body there ſhall penetrate;</l>
+                  <l>And make me drop from th' top of th' lofty Tree,</l>
+                  <l>Such Aſhes, that a <hi>Phenix</hi> like to me</l>
+                  <l>Shall ſoon appear; With that a horrid cry</l>
+                  <l>She gave, and made the very Earth to fly</l>
+                  <l>About, and ſtreight at leaſt a thouſand more</l>
+                  <l>Black Friends appear'd the like ne'r ſeen before,</l>
+                  <l>With thundring, lightning, flaſhes from the Sky</l>
+                  <l>And Smoaking ſtinks, <hi>Toms</hi> valour for to try,</l>
+                  <l>Which <hi>Tom</hi> beholding, in a grivous fright</l>
+                  <l>Departing nimbly bid the Ghoſt Good-night.</l>
+               </lg>
+            </sp>
+            <trailer>Finis Coronet Opus.</trailer>
+            <pb facs="tcp:179784:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
